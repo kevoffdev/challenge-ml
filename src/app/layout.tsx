@@ -30,7 +30,7 @@ export default async function RootLayout({
       >
         <header className="text-xl font-bold leading-[3rem]">
           <Link className="" href="/">
-            Miguelibre
+            Comercio Libre
           </Link>
         </header>
         <div className="grid grid-cols-[300px,1fr] gap-5">
